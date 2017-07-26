@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CaylaDev</string>
+    <string name="upload_file_to_s3">Upload File to S3</string>
+    <string name="download_file_from_s3">Download File from S3</string>
+</resources>
